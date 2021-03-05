@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package proto;
+import "google/protobuf/any.proto";
+option go_package = "github.com/galihsatriawan/go-grpc-std/proto";
+
+message GRPCResponse{
+    Meta meta = 1;
+    google.protobuf.Any data = 2;
+}
+message Meta{
+    string status =1;
+    int32 code =2;
+    string message =3;
+}
