@@ -1,4 +1,4 @@
-package helper
+package std
 
 import (
 	"github.com/galihsatriawan/go-catch"
