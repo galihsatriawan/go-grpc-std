@@ -6,6 +6,8 @@ github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.m
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
 github.com/galihsatriawan/go-catch v0.0.0-20210315070632-f96e481b4ffa h1:eojfJbx0y8vQqAmMOL9VG4F/a/VMQ+OVo4LzuYa0z5o=
 github.com/galihsatriawan/go-catch v0.0.0-20210315070632-f96e481b4ffa/go.mod h1:ary4lzxveOIyTDb12NyIK/s8d9bEJ+zqelBTg8jKQcE=
+github.com/galihsatriawan/go-catch v0.0.1-test h1:5Quhb1P3Esv1xvb+GeHPjXYpagasit/Pofv6OP0fXjw=
+github.com/galihsatriawan/go-catch v0.0.1-test/go.mod h1:ary4lzxveOIyTDb12NyIK/s8d9bEJ+zqelBTg8jKQcE=
 github.com/galihsatriawan/go-catch v0.0.1 h1:rENHCMSyD5putta+5IyUs6NDZuqrfegyQzOocSMJI3s=
 github.com/galihsatriawan/go-catch v0.0.1/go.mod h1:ary4lzxveOIyTDb12NyIK/s8d9bEJ+zqelBTg8jKQcE=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
